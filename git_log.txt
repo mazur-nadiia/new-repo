@@ -1,0 +1,17 @@
+commit d8252569c5db5d955f71d7a1ffa3770e446c7d32
+Author: mazur.nadiia <mazur.nadiia@gmail.com>
+Date:   Mon Sep 18 18:18:54 2017 +0300
+
+    added gitignore
+
+commit 1530a472755ea212d801d11639b3fa20d8d5718f
+Author: mazur.nadiia <mazur.nadiia@gmail.com>
+Date:   Mon Sep 18 17:48:08 2017 +0300
+
+    added two files finally
+
+commit 5190f1521439aa43da4ef3066397372db14cebce
+Author: mazur.nadiia <mazur.nadiia@gmail.com>
+Date:   Mon Sep 18 17:44:49 2017 +0300
+
+    added new file
